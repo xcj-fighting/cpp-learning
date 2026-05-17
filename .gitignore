@@ -1,0 +1,12 @@
+# 忽略所有编译生成的文件夹
+a.out
+build/
+.vscode/
+
+# 忽略编译产物
+*.o
+*.so
+*.d
+*.exe
+*.out
+*.bin
